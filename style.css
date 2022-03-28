@@ -1,0 +1,42 @@
+:root {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .clock {
+    position: relative;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 7px;
+    background-image: linear-gradient(rgb(164, 146, 245),rgb(87, 87, 250));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; 
+  }
+  
+  .text1 {
+    position: relative;
+    text-align: center;
+    font-size: 50px; 
+    background-image: linear-gradient(red,rgb(87, 87, 250));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; 
+  }
+  
+  .text2 {
+    position: relative;
+    text-align: center;
+    font-size: 40px; 
+    margin-right: 100px;
+    margin-left: 100px;
+    background-image: linear-gradient(rgb(250, 64, 64),rgb(19, 233, 12));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+   img {
+       margin-top: 120px;
+       width: 17%;
+  }
+
